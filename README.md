@@ -2,6 +2,7 @@
 This is a Sponsor Project that requries me to answer sponsor goal of understanding their AI tool users demographics, Resume Quality, Users distribution, Prediction of their Age and Experience in professional work.
 Tools used : Python, and Tableau for creating dynamic data analysis and Dynamic Dashboard
 The dataset provided by our sponsor has their users private information.
+
 1.Analyzed 25000 users to understand demographics, Resume quality, Users distribution, Skills possessed.
 
 2. Created dynamic user distribution using bar grapghs and pie-charts concluding the average age, location, Top Industries focused by the users.
